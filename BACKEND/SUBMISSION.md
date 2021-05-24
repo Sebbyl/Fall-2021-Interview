@@ -1,13 +1,14 @@
 ## Repository: 
 
 ```
-PLACE_REPO_LINK_HERE
+https://github.com/Sebbyl/UOttawa-UrlShortener
 ```
 
 ## Run Instructions
 
-ADD_INSTRUCTIONS_ON_HOW_TO_RUN_YOUR_APP
+To start the program, please type "npm run start" in the terminal<br/>
+To reach the page, open a browser of your choice and type "http://localhost:5000"
 
 ## Additional Information
 
-ANYTHING_ELSE_YOU_WOULD_LIKE_TO_SHARE
+I am looking forward to meeting you during my interview!
